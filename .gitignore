@@ -11,3 +11,10 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+.env
+.env.*
+*.key
+*.pem
+credentials*
+token.json
+
